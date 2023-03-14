@@ -1,0 +1,91 @@
+.riga {
+    width: 100px;
+    height: 50px;
+}
+.carousel-item img {
+    display: inline;
+    width: 220px;
+}
+.carousel-item {
+    display: flex;
+}
+.carousel-item img:hover {
+    cursor: pointer;
+    transform: scaleX(1.3);
+    transform: scaleY(1.5px);
+    animation-timing-function: ease-in;
+}
+.service {
+    width: 120px;
+}
+#risearch {
+    padding: 0;
+    border: none;
+}
+.menu-navbar {
+    color: white;
+    padding-left: 100px;
+    margin-left: -800px;
+    text-decoration: none;
+}
+.nav-link {
+    color: white;
+}
+.bg-d{
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #212529;
+    border: hidden;
+    border-bottom: white;
+}
+.bi {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-size: xx-large;
+}
+.modal-content {
+    height: 280px;
+}
+.social {
+    display: block;
+    height: 20px;
+    color: gray;
+    cursor: pointer;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#img-horse {
+    width: 140px;
+    height: 122px;
+    object-fit: cover;
+    object-position: left;
+}
+.titoli {
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.nav-item {
+    color: white;
+}
+.square {
+    border: solid 0.3px white;
+    margin-right: 1.5px;
+}
+#socials {
+    margin-left: 250px;
+    margin-top: 130px;
+}
+.service {
+    background-color: black;
+    color: #7f7f7f;
+    border: solid 1px #7f7f7f;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p {
+   color: #7f7f7f; 
+}
+#voices {
+    margin-right: 200px;
+}
